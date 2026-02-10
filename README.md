@@ -1,2 +1,3 @@
 # KAOTH
-We will release the full version after the paper is accepted
+Paper has been accept by Knowledge-Based Systems
+https://www.sciencedirect.com/science/article/abs/pii/S095070512501737X
